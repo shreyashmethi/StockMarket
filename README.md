@@ -1,4 +1,4 @@
-# StockMarket
+# StockMarketTrendPrediction
 
 A model that predicts whether the closing price of a stock on the following day will be higher or lower than the current closing price.
 
